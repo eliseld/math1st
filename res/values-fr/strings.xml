@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Math1st</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="text1"> </string>
+    <string name="correct">0</string>
+    <string name="wrong">0</string>
+    <string name="button">Nouveau calcul</string>
+    <string name="button2">Vérifier</string>
+    <string name="hint">Entre un nombre</string>
+    <string name="hint2">Entre ta réponse</string>
+    <string name="difficult">Aléatoire</string>
+    <string name="easy">Un nombre</string>
+    <string name="goodjob">Félicitations! Continue! Nombre de bonnes réponses :</string>
+    <string name="buttonreset">remise à zero</string>
+    <string name="saved_correct">CORRECT</string>
+    <string name="saved_wrong">WRONG</string>
+    <string name="saved_profile">profile</string>
+    <string name="mixedOp">Nombres aléatoires</string>
+    <string name="enterNum">Entre un nombre à étudier</string>
+    <string name="yourWrong">C\'est faux... La réponse est</string>
+    <string name="yourRight">Bravo! La réponse est</string>
+    <string name="entAnswer">Entre ta réponse</string>
+    <string name="done">C\'est fini!</string>
+    <string name="entNumAb">Entre un nombre ci-dessus</string>
+    <string name="letsgo">C\'est parti!</string>
+    <string name="reset">voulez-vous vraiment remettre les scores à zero?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="keepTrying">Essaie encore! Nombre de bonnes réponses :</string>
+
+
+    <string-array name="ops_array">
+        <item>Additions</item>
+        <item>Soustractions</item>
+        <item>Multiplications</item>
+        <item>Divisions</item>
+    </string-array>
+
+    <string name="timer">chrono 1 min</string>
+    <string name="sub">Soustractions</string>
+    <string name="mult">Multiplications</string>
+    <string name="add">Additions</string>
+</resources>

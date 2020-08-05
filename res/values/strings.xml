@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Math1st</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1"> </string>
+    <string name="correct">0</string>
+    <string name="wrong">0</string>
+    <string name="button">New Calculation</string>
+    <string name="button2">Check</string>
+    <string name="hint">Enter A Number</string>
+    <string name="hint2">Enter your Answer</string>
+    <string name="difficult">Random</string>
+    <string name="easy">Single #</string>
+    <string name="goodjob">Congratulations! Keep up the great job! Good answers:</string>
+    <string name="buttonreset">Reset</string>
+    <string name="saved_correct">CORRECT</string>
+    <string name="saved_wrong">WRONG</string>
+    <string name="saved_profile">profile</string>
+    <string name="mixedOp">Mixed operations</string>
+    <string name="enterNum">Enter a number to practice</string>
+    <string name="yourWrong">You are wrong&#8230;: Answer is </string>
+    <string name="yourRight">You are right! Answer is </string>
+    <string name="entAnswer">Please enter an answer</string>
+    <string name="done">Done!</string>
+    <string name="entNumAb">Please enter a number above</string>
+    <string name="letsgo">Let\'s go!</string>
+    <string name="reset">Do you really want to reset?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="keepTrying">Keep trying! Good answers:</string>
+    <string name="add">Additions</string>
+    <string name="sub">Subtractions</string>
+    <string name="mult">Multiplications</string>
+    <string name="timer">1 min timer</string>
+
+
+    <string-array name="ops_array">
+        <item>Additions</item>
+        <item>Subtractions</item>
+        <item>Multiplications</item>
+        <item>Divisions</item>
+    </string-array>
+</resources>

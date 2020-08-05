@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.caapp1st.math1st.MainActivity">
+    <item
+        android:id="@+id/easy"
+        android:title="@string/easy"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/difficult"
+        android:title="@string/difficult"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+</menu>
